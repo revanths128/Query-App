@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38361646298",
+    "project_id": "query-a469e",
+    "storage_bucket": "query-a469e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38361646298:android:01b99a9d2a656962c4d1e3",
+        "android_client_info": {
+          "package_name": "com.darshan.question_and_answer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38361646298-d4o5ro95f9ogjoq6pl1qc2emgmgocmlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP48wFTtHQJMVlWPtCILEkw-KIW6e2-f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38361646298-d4o5ro95f9ogjoq6pl1qc2emgmgocmlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
